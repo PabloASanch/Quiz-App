@@ -10,4 +10,4 @@
 <h4 align="center">Front-End Slider Animation Made with HTML5 & CSS<a href="https://github.com/PabloASanch/Quiz-App/blob/main/thumbnail.png" target="_blank"> CSS Animation</a>.</h4>
 
 
-![screenshot](https://github.com/PabloASanch/Captian-Marvel-CSS-Animation/blob/main/Animation.png)
+![screenshot](https://github.com/PabloASanch/Quiz-App/blob/main/thumbnail.png)
